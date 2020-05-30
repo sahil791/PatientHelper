@@ -1,0 +1,11 @@
+2020-05-30 19:33:26,641 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.study:patientHelper:0.0.1-SNAPSHOT @ /home/clicklabs/Patient/patientHelper/pom.xml.
+2020-05-30 19:33:29,434 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /patientHelper/src/main/java
+2020-05-30 19:33:29,435 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /patientHelper/src/main/resources
+2020-05-30 19:33:29,436 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /patientHelper/src/main/resources
+2020-05-30 19:33:29,438 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /patientHelper/src/test/java
+2020-05-30 19:33:29,874 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2020-05-30 19:33:33,754 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-30 19:33:33,765 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-30 19:33:33,829 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-30 19:33:33,835 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-30 19:33:33,836 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clicklabs/Patient/patientHelper/src/test/resources
