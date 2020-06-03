@@ -1,0 +1,10 @@
+package com.study.patienthelper.service;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+public class PatientMapper {
+	public PatientDetail mapRow(ResultSet rs, int rowNum)  throws SQLException {
+		
+	}
+}

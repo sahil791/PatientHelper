@@ -1,0 +1,5 @@
+package com.study.patienthelper.service;
+
+public class PatientMapper {
+
+}

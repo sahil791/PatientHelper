@@ -1,0 +1,14 @@
+package com.study.patienthelper.service;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import com.study.patienthelper.model.PatientDetail;
+
+public class PatientMapper {
+	public PatientDetail mapRow(ResultSet rs, int rowNum)  throws SQLException {
+		PatientDetail patient = new PatientDetail();
+		patient.setPatientId(rs.getInt("patientid"));
+		return patient;
+	}
+}
