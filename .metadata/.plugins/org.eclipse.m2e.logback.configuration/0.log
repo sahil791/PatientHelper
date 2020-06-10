@@ -267,3 +267,15 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-06-03 20:09:11,597 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-06-03 20:09:11,601 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-06-03 20:09:11,601 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clicklabs/Patient/patientHelper/src/test/resources
+2020-06-10 20:03:10,534 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.study:doctor-helper:0.0.1-SNAPSHOT @ /home/clicklabs/DoctorHelper/DoctorHelper/pom.xml.
+2020-06-10 20:03:12,218 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.study:patientHelper:0.0.1-SNAPSHOT @ /home/clicklabs/Patient/patientHelper/pom.xml.
+2020-06-10 20:03:16,033 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-10 20:03:16,045 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-10 20:03:16,102 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-10 20:03:16,109 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-10 20:03:16,109 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clicklabs/DoctorHelper/DoctorHelper/src/test/resources
+2020-06-10 20:03:18,385 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-10 20:03:18,386 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-10 20:03:18,417 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-10 20:03:18,423 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-10 20:03:18,423 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clicklabs/Patient/patientHelper/src/test/resources
